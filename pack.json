@@ -1,0 +1,10 @@
+{
+  "name": "Cold but Warm Winter - Snow World",
+  "description": "From the Yume Nikki soundtrack by Kikiyama",
+  "author": "Listy12408",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
